@@ -1,10 +1,3 @@
-// 1. improve names
-// 2. remove code duplication
-// 3. introduce model layer
-// 4. add unit tets
-// 5. add git repository
-// 6. add to GitHub
-
 import hideInfoAboutWin from "./hideInfoAboutWin.js";
 import showPlayerWin from "./showPlayerWin.js";
 import testWin from "./checkWin.js";

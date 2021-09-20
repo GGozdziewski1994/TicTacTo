@@ -7,11 +7,12 @@ The repository presents a simple tic-tac-toe game.
 https://github.com/GGozdziewski1994/TicTacTo
 
 ## Fetching the repository using Git Bush
-At the command prompt, type:
-git clone [link to repository]
+In the command line, type:
+$ git clone [ link to repository ]
 
 ## Turn on the game
-Please access [index.html] in your browser
+Please access [ index.html ]  in your browser
 
 ## Test run
-iI the command line, enter [npm test]
+In the command line, type: 
+$ npm test

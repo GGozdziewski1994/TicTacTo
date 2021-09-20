@@ -8,7 +8,7 @@ https://github.com/GGozdziewski1994/TicTacTo
 
 ## Fetching the repository using Git Bush
 At the command prompt, type:
-get clone [link to repository]
+git clone [link to repository]
 
 ## Turn on the game
 Please access [index.html] in your browser

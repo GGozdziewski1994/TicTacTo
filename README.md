@@ -6,7 +6,7 @@ The repository presents a simple tic-tac-toe game.
 ## Link to repository
 https://github.com/GGozdziewski1994/TicTacTo
 
-## Fetching the repository using Git Bush
+## Clone the repository using Git Bush
 In the command line, type:
 $ git clone [ link to repository ]
 

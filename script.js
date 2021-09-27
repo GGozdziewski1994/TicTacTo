@@ -1,6 +1,6 @@
 import hideInfoAboutWin from "./hideInfoAboutWin.js";
 import showPlayerWin from "./showPlayerWin.js";
-import testWin from "./checkWin.js";
+import { testWin } from "./checkWin.js";
 
 const boardElements = [...document.querySelectorAll(".container")];
 const setEventsBoard = () => {

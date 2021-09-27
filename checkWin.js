@@ -1,4 +1,4 @@
-const checkWin = function (tableSigns, player) {
+export const checkWin = function (tableSigns, player) {
   const checkHorizontal = () => {
     for (let i = 0; i < 3; i++) {
       if (
@@ -36,7 +36,7 @@ const checkWin = function (tableSigns, player) {
   return checkHorizontal() || checkVertical() || checkSlant();
 };
 
-function testWin(tableSigns, players) {
+export function testWin(tableSigns, players) {
   for (let player of players) {
     if (!checkWin(tableSigns, player)) continue;
 
@@ -66,5 +66,4 @@ function testWin(tableSigns, players) {
     isWin: false,
   };
 }
-module.exports = checkWin;
 

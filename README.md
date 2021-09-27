@@ -11,7 +11,8 @@ In the command line, type:
 $ git clone [ link to repository ]
 
 ## Turn on the game
-Please access [ index.html ]  in your browser
+Please access [ index.html ]  in your browser.
+if it doesn't work. In the command line of the directory where the index.html file is located, enter: $ live-server
 
 ## Test run
 In the command line, type: 

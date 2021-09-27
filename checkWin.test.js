@@ -1,4 +1,5 @@
-const checkWin = require('./checkWin');
+import { checkWin } from './checkWin.js';
+
 let tableSigns = ["X", "X", "X", "", "O", "", "O", "", "O"];
 let player1 = {
   name: "Player 1",
